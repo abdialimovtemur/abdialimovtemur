@@ -1,0 +1,22 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Bu har kuni yangilanishi uchun
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@v2
+        with:
+          github_user_name: abdialimovtemur  # GitHub username'ingizni kiriting
+          outputs: svg
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: .github/workflows/snake-animation
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

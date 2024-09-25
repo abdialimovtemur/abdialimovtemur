@@ -7,7 +7,8 @@ Welcome to my GitHub profile! Here's some fun info about me:
 - ⚡ Fun fact: I love coding, anime, and everything tech-related!
 
 ---
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=abdialimovtemur.abdialimovtemur)
+![Visitors](https://komarev.com/ghpvc/?username=abdialimovtemur&color=brightgreen)
+
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=abdialimovtemur&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdialimovtemur&layout=compact&theme=radical)

@@ -1,22 +1,19 @@
-name: Generate Snake Animation
+name: Snake Game CI
 
 on:
-  schedule:
-    - cron: "0 0 * * *"  # Bu har kuni yangilanishi uchun
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@v2
-        with:
-          github_user_name: abdialimovtemur  # GitHub username'ingizni kiriting
-          outputs: svg
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: .github/workflows/snake-animation
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Run the game
+        run: python snake_game.py

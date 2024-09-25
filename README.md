@@ -13,7 +13,8 @@ Welcome to my GitHub profile! Here's some fun info about me:
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=abdialimovtemur&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdialimovtemur&layout=compact&theme=radical)
 
-![Snake Animation](https://github.com/abdialimovtemur/abdialimovtemur/blob/output/github-contribution-grid-snake.svg)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdialimovtemur)
+
 
 
 ---

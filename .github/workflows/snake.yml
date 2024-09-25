@@ -3,7 +3,7 @@ name: Snake Game CI
 on:
   push:
     branches:
-      - main
+      - main  # Bu yerda 'main' branch nomini ko'rsatishingiz kerak
   pull_request:
     branches:
       - main
@@ -16,4 +16,4 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Run the game
-        run: python snake_game.py
+        run: python snake_game.py  # Bu yerda 'snake_game.py' fayli to'g'ri nom bilan yozilganligiga ishonch hosil qiling

@@ -7,12 +7,12 @@ Welcome to my GitHub profile! Here's some fun info about me:
 - ⚡ Fun fact: I love coding, anime, and everything tech-related!
 
 ---
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=abdialimovtemur.abdialimovtemur)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=abdialimovtemur&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdialimovtemur&layout=compact&theme=radical)
 
-![Snake Animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/abdialimovtemur/abdialimovtemur/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

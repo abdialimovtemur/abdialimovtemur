@@ -7,6 +7,16 @@ Welcome to my GitHub profile! Here's some fun info about me:
 - ⚡ Fun fact: I love coding, anime, and everything tech-related!
 
 ---
+[![Trophy](https://github-profile-trophy.vercel.app/?username=abdialimovtemur&theme=onedark&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Dynamic Contributions](https://github.com/abdialimovtemur/abdialimovtemur/blob/main/images/contributions.svg)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+![WakaTime](https://wakatime.com/share/@YOUR_USERNAME/abcd1234-5678-90ef-ghij-klmnopqrstuv.svg)
+
+ [![Visitors](https://visitor-badge.glitch.me/badge?page_id=abdialimovtemur.abdialimovtemur)](https://github.com/abdialimovtemur)
+
 
 ![Visitors](https://komarev.com/ghpvc/?username=abdialimovtemur&color=brightgreen)
 

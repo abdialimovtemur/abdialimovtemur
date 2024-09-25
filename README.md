@@ -13,6 +13,11 @@ Welcome to my GitHub profile! Here's some fun info about me:
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=abdialimovtemur&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdialimovtemur&layout=compact&theme=radical)
 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdialimovtemur)
 
 

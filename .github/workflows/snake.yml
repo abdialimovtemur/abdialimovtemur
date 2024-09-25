@@ -3,7 +3,7 @@ name: Snake Game CI
 on:
   push:
     branches:
-      - main  # Bu yerda 'main' branch nomini ko'rsatishingiz kerak
+      - main  # Bu yerda sizning asosiy branch nomini to'g'ri kiritganingizga ishonch hosil qiling
   pull_request:
     branches:
       - main
@@ -15,5 +15,15 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'  # Python versiyasini kiritish
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt  # Agar sizda requirements.txt fayli bo'lsa
+
       - name: Run the game
-        run: python snake_game.py  # Bu yerda 'snake_game.py' fayli to'g'ri nom bilan yozilganligiga ishonch hosil qiling
+        run: python snake_game.py  # Fayl nomini to'g'ri kiriting

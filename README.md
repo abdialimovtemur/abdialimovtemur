@@ -12,17 +12,11 @@ Welcome to my GitHub profile! Here's some fun info about me:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![WakaTime](https://wakatime.com/share/@YOUR_USERNAME/abcd1234-5678-90ef-ghij-klmnopqrstuv.svg)
-
- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=abdialimovtemur.abdialimovtemur)](https://github.com/abdialimovtemur)
-
 
 ![Visitors](https://komarev.com/ghpvc/?username=abdialimovtemur&color=brightgreen)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=abdialimovtemur&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdialimovtemur&layout=compact&theme=radical)
-
-![My Animation](https://media.giphy.com/media/xT39D7KVcKNRF2H6m4/giphy.gif)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)

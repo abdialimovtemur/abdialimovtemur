@@ -23,7 +23,6 @@ Welcome to my GitHub profile! Here's some fun info about me:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdialimovtemur)
 
-![Your GitHub Activity Calendar](https://activity-graph.herokuapp.com/graph?username=abdialimovtemur&theme=react-dark)
 
 ---
 

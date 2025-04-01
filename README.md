@@ -8,11 +8,6 @@
 🟢 **State Management:** Redux Toolkit, RTK Query  
 🟢 **Tools:** Git, Vite, Figma  
 
----
-
-### 📊 GitHub Stats  
-![Temur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdialimovtemur&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdialimovtemur&layout=compact&theme=radical)  
 
 ---
 

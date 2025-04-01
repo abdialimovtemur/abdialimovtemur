@@ -38,15 +38,15 @@
 
 
 ---
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdialimovtemur&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" alt="GitHub Stats">
+<!-- GitHub Stats and Top Languages -->
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=abdialimovtemur&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" alt="GitHub Stats" width="500px">
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdialimovtemur&layout=compact&theme=radical" alt="Top Languages" width="300px">
 </p>
 
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdialimovtemur&layout=compact&theme=radical" alt="Top Languages">
-</p>
 
 
 

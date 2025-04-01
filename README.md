@@ -3,7 +3,6 @@
 🚀 Frontend Engineer | 
 
 
-<img src="https://media.giphy.com/media/UsGfTz0hI4jvoZMtkO/giphy.gif" width="30px">
 
 ---
 

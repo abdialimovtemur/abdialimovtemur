@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Here's some fun info about me:
 - ⚡ Fun fact: I love coding, anime, and everything tech-related!
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)

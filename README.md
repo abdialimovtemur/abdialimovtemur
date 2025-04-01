@@ -27,6 +27,9 @@
 ### 🔗 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Temur-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)  
 [![Instagram](https://img.shields.io/badge/Instagram-Temur-red?style=for-the-badge&logo=instagram)](https://instagram.com/YOUR_INSTAGRAM)  
+[![Telegram](https://img.shields.io/badge/Telegram-Temur-blue?style=for-the-badge&logo=telegram)](https://t.me/YOUR_TELEGRAM)  
+[![YouTube](https://img.shields.io/badge/YouTube-Temur-darkred?style=for-the-badge&logo=youtube)](https://youtube.com/c/YOUR_YOUTUBE)
+
 
 ---
 

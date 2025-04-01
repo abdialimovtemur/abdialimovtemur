@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Temur! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <div style="display: flex; justify-content: center; align-items: center; font-size: 48px; font-weight: bold;">
-  <h1>🚀 Frontend Engineer</h1>
+  <span>🚀 Frontend Engineer</span>
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="50px" style="margin-left: 10px;">
 </div>
 

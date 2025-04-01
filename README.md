@@ -2,7 +2,7 @@
 
 <div>
   <span style="font-size: 222px;">🚀 Frontend Engineer</span>
-  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="50px" style="margin-left: 10px;">
+  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="33px" style="margin-left: 10px;">
 </div>
 
 

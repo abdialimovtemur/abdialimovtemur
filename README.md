@@ -35,5 +35,5 @@
 
 ---
 
-> **"Building the future, one line of code at a time."** <img src="https://media.giphy.com/media/7vDoUoDZHoUQxMPkd7/giphy.gif" width="30px">
+
 

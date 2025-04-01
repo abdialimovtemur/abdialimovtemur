@@ -3,7 +3,8 @@
 🚀 Frontend Engineer | 
 
 
-<img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://giphy.com/gifs/evlsydan-YKjmNhfTgR76ZDroyW)" width="30px">
+<img src="https://media.giphy.com/media/UsGfTz0hI4jvoZMtkO/giphy.gif" width="30px">
+
 ---
 
 ### 🛠 Tech Stack  

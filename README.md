@@ -2,6 +2,8 @@
 
 🚀 Frontend Engineer | 
 
+
+<img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://giphy.com/gifs/evlsydan-YKjmNhfTgR76ZDroyW)" width="30px">
 ---
 
 ### 🛠 Tech Stack  
@@ -24,7 +26,7 @@
 
 ---
 
-### 🔗 Let's Connect  
+### 🔗 Join the Network  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Temur-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)  
 [![Instagram](https://img.shields.io/badge/Instagram-Temur-red?style=for-the-badge&logo=instagram)](https://instagram.com/YOUR_INSTAGRAM)  
 [![Telegram](https://img.shields.io/badge/Telegram-Temur-blue?style=for-the-badge&logo=telegram)](https://t.me/YOUR_TELEGRAM)  

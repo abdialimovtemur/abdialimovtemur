@@ -31,10 +31,10 @@
 ---
 
 ### 🔗 Join the Network  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Temur-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdialimovtemurbek)  
-[![Instagram](https://img.shields.io/badge/Instagram-Temur-red?style=for-the-badge&logo=instagram)](https://instagram.com/itstim.io)  
-[![Telegram](https://img.shields.io/badge/Telegram-Temur-blue?style=for-the-badge&logo=telegram)](https://t.me/temurbekabdialimov)  
-[![YouTube](https://img.shields.io/badge/YouTube-Temur-darkred?style=for-the-badge&logo=youtube)](https://youtube.com/c/abdialimovtemur)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdialimov-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdialimovtemurbek)  
+[![Instagram](https://img.shields.io/badge/Instagram-Abdialimov-red?style=for-the-badge&logo=instagram)](https://instagram.com/itstim.io)  
+[![Telegram](https://img.shields.io/badge/Telegram-Abdialimov-blue?style=for-the-badge&logo=telegram)](https://t.me/temurbekabdialimov)  
+[![YouTube](https://img.shields.io/badge/YouTube-Abdialimov-darkred?style=for-the-badge&logo=youtube)](https://youtube.com/c/abdialimovtemur)
 
 
 
